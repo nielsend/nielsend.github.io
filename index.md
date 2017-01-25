@@ -1,7 +1,7 @@
-## DANIEL NIELSEN
-PhD Student at Iowa State University
+# DANIEL W. NIELSEN
+## PhD Student at Iowa State University
 
 
-[About me](about) | [CV](cv)  | [Coursework](coursework)  | [Hobbies](hobbies)
+[About me](about.md) | [CV](cv.md)  | [Coursework](coursework.md)  | [Hobbies](hobbies.md)
 
 [Link](url) and ![Image](src)
