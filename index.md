@@ -1,5 +1,6 @@
 ## DANIEL NIELSEN
-### PhD Student at Iowa State University
+PhD Student at Iowa State University
+[About me](about)[CV](cv)[Coursework](coursework)[Hobbies](hobbies)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
